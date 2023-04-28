@@ -22,13 +22,13 @@ in the works
 
 ### High Saturation Detection and Deletion
 
-![](https://github.com/ChrisMzz/Cellular-Simulation/blob/main/readme_files/anim4.gif)
+![](https://github.com/ChrisMzz/Cellular-Simulation/blob/main/readme_files/anim5.gif)
 
 ### More
 
 Along with chaotic noise-like behaviour and other types of movement, here's an example of what to expect :
 
-![](https://github.com/ChrisMzz/Cellular-Simulation/blob/main/readme_files/anim5.gif)
+![](https://github.com/ChrisMzz/Cellular-Simulation/blob/main/readme_files/anim6.gif)
 
 
 ## The `Preset` System
