@@ -25,7 +25,7 @@ if exist anim%name% (
     set /a name=%name%+1
     goto nameset
 )
-echo %name% > name.txt
+echo %name%>name.txt
 
 
 python video.py
